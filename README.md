@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshmi</h1>
 <h3 align="center">Designer🎗️ | Developer👩🏻‍💻 Creating my ideal Stutopia!</h3>
-- 🌱 I’m currently learning **DOTNET**
+- 🌱 I’m currently learning FLUTTER
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/lakshcb](https://www.behance.net/lakshcb)
 
